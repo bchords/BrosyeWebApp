@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrosyeWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b38d802746a1b9c119b9ba4a2b5eaf8fb2ba359")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrosyeWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrosyeWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

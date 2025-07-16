@@ -94,3 +94,4 @@ D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\obj\De
 D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\obj\Debug\net9.0\BrosyeWebApp.pdb
 D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\obj\Debug\net9.0\BrosyeWebApp.genruntimeconfig.cache
 D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\obj\Debug\net9.0\ref\BrosyeWebApp.dll
+D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\obj\Debug\net9.0\BrosyeWebApp.sourcelink.json
