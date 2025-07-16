@@ -1,0 +1,7 @@
+D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\publish\BrosyeWebApp.exe
+D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\publish\appsettings.Development.json
+D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\publish\appsettings.json
+D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\publish\BrosyeWebApp.dll
+D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\publish\BrosyeWebApp.deps.json
+D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\publish\BrosyeWebApp.runtimeconfig.json
+D:\IT\Applied Skills\GitHub\Building lab\.Net Web-swap slot1\BrosyeWebApp\publish\BrosyeWebApp.pdb
